@@ -33,3 +33,4 @@ export const updateDoc = (ref, id, data) => {
             console.log(`Updated item: ${id}`);
         });
 };
+hh
